@@ -4,17 +4,14 @@ files:
   visible: true
   text: |-
     public class Main {
-
         public static void main(String[] args) {
 
-            // Add type to these two variables
-            a = 512343;
-            b = 3431231;
+            variable  // Change this line
 
-            System.out.println(a + b);
+            System.out.println(variable);
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/2315
+feedback_link: https://hyperskill.org/learn/step/2485
 status: Solved
 record: -1

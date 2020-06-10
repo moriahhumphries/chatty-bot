@@ -7,14 +7,12 @@ files:
 
         public static void main(String[] args) {
 
-            // Add type to these two variables
-            a = 512343;
-            b = 3431231;
-
-            System.out.println(a + b);
+            /*
+            // System.out.println("Yet another simple Java application");
+            System.out.println("Do not print this line");
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/2315
+feedback_link: https://hyperskill.org/learn/step/2495
 status: Solved
 record: -1
