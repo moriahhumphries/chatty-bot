@@ -16,6 +16,9 @@ class Main {
 
         System.out.println(desksA + desksB + desksC);
 
+        // Math problem
+        int a = -1;
+        System.out.println(1 - a++);
 
     }
 }
