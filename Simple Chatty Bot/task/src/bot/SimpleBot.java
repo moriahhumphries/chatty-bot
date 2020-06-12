@@ -32,7 +32,6 @@ public class SimpleBot {
             System.out.println(i + "!");
         }
 
-
         System.out.println("Completed, have a nice day!");
     }
 }
