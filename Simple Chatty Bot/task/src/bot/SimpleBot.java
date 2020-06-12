@@ -26,6 +26,12 @@ public class SimpleBot {
         System.out.println("Now I will prove to you that I can count to any number you want.");
 
         // read a number and count to it here
+        int chosenNumber = scanner.nextInt();
+
+        for(int i = 0; i <= chosenNumber; i++){
+            System.out.println(i + "!");
+        }
+
 
         System.out.println("Completed, have a nice day!");
     }
